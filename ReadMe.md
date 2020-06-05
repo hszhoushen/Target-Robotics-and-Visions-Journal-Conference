@@ -7,9 +7,9 @@
 | The International Journal of Robotics Research (IJRR)     |      | 6.13          | 84                   |
 | IEEE TRANSACTIONS ON ROBOTICS (TRO)                       |      | 6.48          | 120                  |
 | Science Robotics                                          |      | 19.4          | 48                   |
-| Transactions on Automation Science and Engineering (TASE) |      |               |                      |
+| Transactions on Automation Science and Engineering (TASE) |      | 5.224         | 157                  |
 | ROBOTICS AND AUTONOMOUS SYSTEMS (RAS)                     |      | 2.93          | 169                  |
-| Frontiers in Robotics and AI                              |      | 3.31          |                      |
+| Frontiers in Robotics and AI                              |      | 3.31          | 143                  |
 | IEEE Robotics and Automation Letters                      |      |               |                      |
 
 ## Computer Vision
