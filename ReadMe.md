@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Target Journals
 
 ## Robotics
@@ -15,7 +14,6 @@
 |       | Robotics and Autonomous Systems (RAS)                     | 2.93          | 169                  |
 |       | Frontiers in Robotics and AI                              | 3.31          | 143                  |
 |       | Journal of Field Robotics (JFR)                           |               |                      |
-|       |                                                           |               |                      |
 
 ## Computer Vision
 
@@ -39,10 +37,13 @@
 | Level | Conference Name | AC Rate | # of paper published |
 | :---- | --------------- | ------- | -------------------- |
 | A     | CVPR            |         |                      |
-| A     | NIPS            |         |                      |
-| A     | ECCV            |         |                      |
-|       |                 |         |                      |
-|       |                 |         |                      |
+| A     | NeurIPS         |         |                      |
+| A     | ICCV            |         |                      |
+| A     | AAAI            |         |                      |
+| A     | IJCAI           |         |                      |
+| B     | ECCV            |         |                      |
+| C     | ICIP            |         |                      |
+| C     | ICPR            |         |                      |
 
 ## Robotics
 
@@ -51,18 +52,10 @@
 | B     | ICRA            | Sep 15, 2020 (TBD)  | 1000+                                   | 40%             |
 | C     | IROS            | Mar 1, 2021 (TBD)   | 1000+                                   | 47%             |
 | *     | CoRL            | Jul 28, 2020        | 100+                                    | 27%             |
-|       |                 |                     |                                         |                 |
-|       |                 |                     |                                         |                 |
-
-### 
 
 # Journal List
 
  ([Impact Factor Search](https://jcr.clarivate.com/)), 
-
-Thomson~~[Journal Impact Factors on Robotics and Machine Learning](http://www.ias.informatik.tu-darmstadt.de/Miscellaneous/JournalImpactFactors)~~~~, TU Darmstadt~~ [out-dated]
-
-Find Special Issues CFP:  and [~~Computer Vision #1~~](http://www.google.com/search?q="special+issue"+site%3Alists.diku.dk%2Fpipermail%2Fimageworld&tbs=qdr:y) / [Computer Vision #2](http://conferences.visionbib.com/Iris-Conferences.html#special)
 
 **Robotics and Its Neighborhood**
 
