@@ -24,7 +24,7 @@
 | B     | [Neurocomputing](journals.elsevier.com/neurocomputing)       | 4.438 (Q1)    | 1323                 |
 |       | IEEE TCSVT                                                   |               |                      |
 |       | Pattern Recognition ([PR](https://www.journals.elsevier.com/pattern-recognition)) | 7.196         |                      |
-|       | Pattern Recognition Letters (PRL](https://www.journals.elsevier.com/pattern-recognition-letters)) | 3.255         |                      |
+|       | Pattern Recognition Letters ([PRL](https://www.journals.elsevier.com/pattern-recognition-letters)) | 3.255         |                      |
 |       | Computer Vision and Image Understanding ([CVIU](https://www.journals.elsevier.com/pattern-recognition-letters)) | 3.121         |                      |
 |       | TNNLS                                                        | 11.68         | 534                  |
 |       | Information Fusion                                           | 10.72         | 83                   |
