@@ -13,30 +13,31 @@
 |       | Transactions on Automation Science and Engineering (TASE) | 5.224         | 157                  |
 |       | Robotics and Autonomous Systems (RAS)                     | 2.93          | 169                  |
 |       | Frontiers in Robotics and AI                              | 3.31          | 143                  |
-|       | Journal of Field Robotics (JFR)                           |               |                      |
+| Top   | Journal of Field Robotics (JFR)                           |               |                      |
 
 ## Computer Vision and AI
 
 | CCF Level | Journal Name                                                 | Impact Factor | # of paper published |
 | :-------- | ------------------------------------------------------------ | ------------- | -------------------- |
 | A         | IEEE Trans on Pattern Analysis and Machine Intelligence (TPAMI) | 17.86         |                      |
+|           | Nature Machine Intelligence                                  |               |                      |
 | A         | International Journal of Computer Vision (IJCV)              | 6.07          |                      |
 | A         | Journal of Machine Learning Research (JMLR)                  | 4.09          |                      |
-| A         | IEEE Transactions on Image Processing (TIP)                  |               |                      |
-| A         | ACM Transactions on Graphics (TOG)                           |               |                      |
-| A         | IEEE Transactions on Visualization and Computer Graphics (TVCG) |               |                      |
-| B         | IEEE Transactions on Multimedia (TMM)                        | 5.452         | 258                  |
-| C         | [Neurocomputing](journals.elsevier.com/neurocomputing)       | 4.438 (Q1)    | 1323                 |
-|           | IEEE TCSVT                                                   |               |                      |
+| A         | IEEE Transactions on Image Processing (TIP)                  | 9.34          |                      |
+| A         | ACM Transactions on Graphics (TOG)                           | 6.50          |                      |
+| A         | IEEE Transactions on Visualization and Computer Graphics (TVCG) | 4.56          |                      |
+| B         | IEEE Transactions on Multimedia (TMM)                        | 5.45          | 258                  |
+| B         | IEEE Transactions on Audio, Speech, and Language Processing (TASLP) | 3.40          |                      |
+| B         | Computer Vision and Image Understanding ([CVIU](https://www.journals.elsevier.com/pattern-recognition-letters)) | 3.121         |                      |
+| B         | IEEE Transactions on Neural Networks and learning systems （TNNLS) | 11.68         | 534                  |
 | B         | Pattern Recognition ([PR](https://www.journals.elsevier.com/pattern-recognition)) | 7.196         |                      |
+| B         | IEEE Transactions on Circuits and Systems for Video Technology [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) | 4.13          |                      |
+| B         | ACM Transactions on Speech and Language Processing (TSLP)    | -             |                      |
+| B         | Computer Vision and Image Understanding ([CVIU](https://www.journals.elsevier.com/pattern-recognition-letters)) | 3.121         |                      |
 | C         | Pattern Recognition Letters ([PRL](https://www.journals.elsevier.com/pattern-recognition-letters)) | 3.255         |                      |
-|           | Computer Vision and Image Understanding ([CVIU](https://www.journals.elsevier.com/pattern-recognition-letters)) | 3.121         |                      |
-| B         | TNNLS                                                        | 11.68         | 534                  |
-|           | Information Fusion                                           | 10.72         | 83                   |
-|           | Nature Machine Intelligence                                  |               |                      |
+| C         | [Neurocomputing](journals.elsevier.com/neurocomputing)       | 4.438 (Q1)    | 1323                 |
 | C         | [Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications) | 5.452         |                      |
-|           |                                                              |               |                      |
-|           |                                                              |               |                      |
+|           | [Information Fusion](https://www.sciencedirect.com/journal/information-fusion) | 13.67         | 83                   |
 
 # Target Conferences
 
