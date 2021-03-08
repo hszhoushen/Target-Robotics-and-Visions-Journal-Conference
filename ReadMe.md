@@ -4,10 +4,10 @@
 
 | Level | Journal Name                                              | Impact Factor | # of paper published |
 | :---- | --------------------------------------------------------- | ------------- | -------------------- |
-|       | Science Robotics (Q1)                                     | 18.684        | 48                   |
-|       | IEEE Transactions on Robotics (TRO) (Q1)                  | 6.123         | 120                  |
+| Top   | Science Robotics (Q1)                                     | 18.684        | 48                   |
+| Top   | IEEE Transactions on Robotics (TRO) (Q1)                  | 6.123         | 120                  |
 |       | Soft Robotics                                             | 5.543         |                      |
-|       | The International Journal of Robotics Research (IJRR)     | 4.703         | 84                   |
+| Top   | The International Journal of Robotics Research (IJRR)     | 4.703         | 84                   |
 |       | IEEE Robotics and Automation Letters (RAL) (Q1)           | 3.608         |                      |
 |       | AUTONOMOUS ROBOTS (Q1)                                    | 3.570         |                      |
 |       | Transactions on Automation Science and Engineering (TASE) | 5.224         | 157                  |
@@ -15,43 +15,53 @@
 |       | Frontiers in Robotics and AI                              | 3.31          | 143                  |
 |       | Journal of Field Robotics (JFR)                           |               |                      |
 
-## Computer Vision
+## Computer Vision and AI
 
-| Level | CCF                                                          | Impact Factor | # of paper published |
-| :---- | ------------------------------------------------------------ | ------------- | -------------------- |
-| A     | TIP                                                          |               |                      |
-| B     | TMM                                                          | 5.452         | 258                  |
-| B     | [Neurocomputing](journals.elsevier.com/neurocomputing)       | 4.438 (Q1)    | 1323                 |
-|       | IEEE TCSVT                                                   |               |                      |
-|       | Pattern Recognition ([PR](https://www.journals.elsevier.com/pattern-recognition)) | 7.196         |                      |
-|       | Pattern Recognition Letters ([PRL](https://www.journals.elsevier.com/pattern-recognition-letters)) | 3.255         |                      |
-|       | Computer Vision and Image Understanding ([CVIU](https://www.journals.elsevier.com/pattern-recognition-letters)) | 3.121         |                      |
-|       | TNNLS                                                        | 11.68         | 534                  |
-|       | Information Fusion                                           | 10.72         | 83                   |
-|       | Nature Machine Intelligence                                  |               |                      |
+| CCF Level | Journal Name                                                 | Impact Factor | # of paper published |
+| :-------- | ------------------------------------------------------------ | ------------- | -------------------- |
+| A         | IEEE Trans on Pattern Analysis and Machine Intelligence (TPAMI) | 17.86         |                      |
+| A         | International Journal of Computer Vision (IJCV)              | 6.07          |                      |
+| A         | Journal of Machine Learning Research (JMLR)                  | 4.09          |                      |
+| A         | IEEE Transactions on Image Processing (TIP)                  |               |                      |
+| A         | ACM Transactions on Graphics (TOG)                           |               |                      |
+| A         | IEEE Transactions on Visualization and Computer Graphics (TVCG) |               |                      |
+| B         | IEEE Transactions on Multimedia (TMM)                        | 5.452         | 258                  |
+| C         | [Neurocomputing](journals.elsevier.com/neurocomputing)       | 4.438 (Q1)    | 1323                 |
+|           | IEEE TCSVT                                                   |               |                      |
+| B         | Pattern Recognition ([PR](https://www.journals.elsevier.com/pattern-recognition)) | 7.196         |                      |
+| C         | Pattern Recognition Letters ([PRL](https://www.journals.elsevier.com/pattern-recognition-letters)) | 3.255         |                      |
+|           | Computer Vision and Image Understanding ([CVIU](https://www.journals.elsevier.com/pattern-recognition-letters)) | 3.121         |                      |
+| B         | TNNLS                                                        | 11.68         | 534                  |
+|           | Information Fusion                                           | 10.72         | 83                   |
+|           | Nature Machine Intelligence                                  |               |                      |
+| C         | [Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications) | 5.452         |                      |
+|           |                                                              |               |                      |
+|           |                                                              |               |                      |
 
 # Target Conferences
 
-## Computer Vision
+## Computer Vision and AI
 
-| Level | Conference Name | AC Rate | # of paper published |
-| :---- | --------------- | ------- | -------------------- |
-| A     | CVPR            |         |                      |
-| A     | NeurIPS         |         |                      |
-| A     | ICCV            |         |                      |
-| A     | AAAI            |         |                      |
-| A     | IJCAI           |         |                      |
-| B     | ECCV            |         |                      |
-| C     | ICIP            |         |                      |
-| C     | ICPR            |         |                      |
+| CCF Level | Conference Name                                     | AC Rate | # of paper published |
+| :-------- | --------------------------------------------------- | ------- | -------------------- |
+| A         | CVPR                                                |         |                      |
+| A         | NeurIPS                                             |         |                      |
+| A         | ICCV                                                |         |                      |
+| A         | AAAI                                                |         |                      |
+| A         | IJCAI                                               |         |                      |
+| A         | ACM International Conference on Multimedia (ACM MM) |         |                      |
+| A         | ACM SIGGRAPH Annual Conference (SIGGRAPH)           |         |                      |
+| B         | ECCV                                                |         |                      |
+| C         | ICIP                                                |         |                      |
+| C         | ICPR                                                |         |                      |
 
 ## Robotics
 
-| Level | Conference Name | Submission Deadline | Submission Deadline# of paper published | Acceptance Rate |
-| :---- | --------------- | ------------------- | --------------------------------------- | --------------- |
-| B     | ICRA            | Sep 15, 2020 (TBD)  | 1000+                                   | 40%             |
-| C     | IROS            | Mar 1, 2021 (TBD)   | 1000+                                   | 47%             |
-| *     | CoRL            | Jul 28, 2020        | 100+                                    | 27%             |
+| CCF Level | Conference Name | Submission Deadline | # of paper published | Acceptance Rate |
+| :-------- | --------------- | ------------------- | -------------------- | --------------- |
+| B         | ICRA            | Sep 15, 2020 (TBD)  | 1000+                | 40%             |
+| C         | IROS            | Mar 1, 2021 (TBD)   | 1000+                | 47%             |
+| *         | CoRL            | Jul 28, 2020        | 100+                 | 27%             |
 
 # Journal List
 
@@ -144,3 +154,7 @@ Page limit: Paper (-14), Letter (-5)
 [2] https://jackietseng.github.io/conference_call_for_paper/
 
 [3] https://jackietseng.github.io/conference_call_for_paper/conferences-with-ccf.html
+
+[4] [CCF AI](https://www.ccf.org.cn/Academic_Evaluation/AI/])
+
+[5] [CCF Computer Graphics and Multimedia](https://www.ccf.org.cn/Academic_Evaluation/CGAndMT/)
