@@ -2,19 +2,19 @@
 
 ## Robotics
 
-| Journal Level | JCR                                                          | Journal Name                                              | Impact Factor | # of paper published |
-| :------------ | ------------------------------------------------------------ | --------------------------------------------------------- | ------------- | -------------------- |
-| Top           | Q1                                                           | Science Robotics                                          | 18.684        | 48                   |
-| Top           | Q1                                                           | IEEE Transactions on Robotics (TRO)                       | 6.123         | 120                  |
-|               | Q1                                                           | Soft Robotics                                             | 5.543         |                      |
-| Top           | Q1                                                           | International Journal of Robotics Research (IJRR)         | 4.703         | 84                   |
-| Top           | Q2                                                           | JOURNAL OF FIELD ROBOTICS (JFR)                           | 3.581         |                      |
-|               | Q1                                                           | IEEE Robotics and Automation Letters (RAL)                | 3.608         |                      |
-|               | Q1(ROBOTICS) and Q2(COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE) | AUTONOMOUS ROBOTS                                         | 3.602         |                      |
-|               | Q1                                                           | Transactions on Automation Science and Engineering (TASE) | 5.224         | 157                  |
-|               | Q1                                                           | ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING            | 5.057         |                      |
-|               | Q2                                                           | ROBOTICS AND AUTONOMOUS SYSTEMS (RAS)                     | 2.93          | 169                  |
-|               |                                                              | Frontiers in Robotics and AI                              | 3.31          | 143                  |
+| Level | JCR  | Journal Name                                              | Impact Factor | # of paper published |
+| :---- | ---- | --------------------------------------------------------- | ------------- | -------------------- |
+| Top   | Q1   | Science Robotics                                          | 18.684        | 48                   |
+| Top   | Q1   | IEEE Transactions on Robotics (TRO)                       | 6.123         | 120                  |
+|       | Q1   | Soft Robotics                                             | 5.543         |                      |
+| Top   | Q1   | International Journal of Robotics Research (IJRR)         | 4.703         | 84                   |
+| Top   | Q2   | JOURNAL OF FIELD ROBOTICS (JFR)                           | 3.581         |                      |
+|       | Q1   | IEEE Robotics and Automation Letters (RAL)                | 3.608         |                      |
+|       | -    | AUTONOMOUS ROBOTS                                         | 3.602         |                      |
+|       | Q1   | Transactions on Automation Science and Engineering (TASE) | 5.224         | 157                  |
+|       | Q1   | ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING            | 5.057         |                      |
+|       | Q2   | ROBOTICS AND AUTONOMOUS SYSTEMS (RAS)                     | 2.93          | 169                  |
+|       |      | Frontiers in Robotics and AI                              | 3.31          | 143                  |
 
 ## Computer Vision and AI
 
@@ -44,26 +44,26 @@
 
 ## Computer Vision and AI
 
-| CCF Level | Conference Name                                     | AC Rate | # of paper published |
-| :-------- | --------------------------------------------------- | ------- | -------------------- |
-| A         | CVPR                                                |         |                      |
-| A         | NeurIPS                                             |         |                      |
-| A         | ICCV                                                |         |                      |
-| A         | AAAI                                                |         |                      |
-| A         | IJCAI                                               |         |                      |
-| A         | ACM International Conference on Multimedia (ACM MM) |         |                      |
-| A         | ACM SIGGRAPH Annual Conference (SIGGRAPH)           |         |                      |
-| B         | ECCV                                                |         |                      |
-| C         | ICIP                                                |         |                      |
-| C         | ICPR                                                |         |                      |
+| CCF Level | Conference Name | # of paper published | Acceptance Rate |
+| :-------- | --------------- | -------------------- | --------------- |
+| A         | CVPR            |                      |                 |
+| A         | NeurIPS         |                      |                 |
+| A         | ICCV            |                      |                 |
+| A         | AAAI            |                      |                 |
+| A         | IJCAI           | 587                  | 19.3%           |
+| A         | ACM MM          |                      |                 |
+| A         | SIGGRAPH        |                      |                 |
+| B         | ECCV            |                      |                 |
+| C         | ICIP            |                      |                 |
+| C         | ICPR            |                      |                 |
 
 ## Robotics
 
 | CCF Level | Conference Name | # of paper published | Acceptance Rate |
 | :-------- | --------------- | -------------------- | --------------- |
-| B         | ICRA            | 1000+                | 40%             |
-| C         | IROS            | 1000+                | 47%             |
-| *         | CoRL            | 100+                 | 27%             |
+| B         | ICRA            | ~1800                | ~40%            |
+| C         | IROS            | ~1000                | ~47%            |
+| *         | CoRL            | ~200                 | ~27%            |
 
 
 
