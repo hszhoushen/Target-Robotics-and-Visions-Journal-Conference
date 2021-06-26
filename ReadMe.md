@@ -4,17 +4,17 @@
 
 | Level | JCR  | Journal Name                                              | Impact Factor | # of paper published |
 | :---- | ---- | --------------------------------------------------------- | ------------- | -------------------- |
-| Top   | Q1   | Science Robotics                                          | 18.684        | 48                   |
+| Top   | Q1   | Science Robotics                                          | 18.684        | 66                   |
 | Top   | Q1   | IEEE Transactions on Robotics (TRO)                       | 6.123         | 120                  |
-|       | Q1   | Soft Robotics                                             | 5.543         |                      |
 | Top   | Q1   | International Journal of Robotics Research (IJRR)         | 4.703         | 84                   |
-| Top   | Q2   | JOURNAL OF FIELD ROBOTICS (JFR)                           | 3.581         |                      |
-|       | Q1   | IEEE Robotics and Automation Letters (RAL)                | 3.608         |                      |
-|       | -    | AUTONOMOUS ROBOTS                                         | 3.602         |                      |
+| Top   | Q2   | JOURNAL OF FIELD ROBOTICS (JFR)                           | 3.581         | 66                   |
+|       | Q1   | IEEE/ASME Transactions on Mechatronics                    | 5.673         | 279                  |
 |       | Q1   | Transactions on Automation Science and Engineering (TASE) | 5.224         | 157                  |
-|       | Q1   | ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING            | 5.057         |                      |
-|       | Q2   | ROBOTICS AND AUTONOMOUS SYSTEMS (RAS)                     | 2.93          | 169                  |
-|       |      | Frontiers in Robotics and AI                              | 3.31          | 143                  |
+|       | Q1   | ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING            | 5.057         | 156                  |
+|       | Q1   | Soft Robotics                                             | 5.543         | 46                   |
+|       | Q1   | IEEE Robotics and Automation Letters (RAL)                | 3.608         | 594                  |
+|       | Q2   | ROBOTICS AND AUTONOMOUS SYSTEMS (RAS)                     | 2.93          | 180                  |
+|       | Q2   | AUTONOMOUS ROBOTS                                         | 3.602         | 122                  |
 
 ## Computer Vision and AI
 
