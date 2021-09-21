@@ -2,43 +2,46 @@
 
 ## Robotics
 
-| Level | JCR  | Journal Name                                              | Impact Factor | # of paper published |
-| :---- | ---- | --------------------------------------------------------- | ------------- | -------------------- |
-| Top   | Q1   | Science Robotics                                          | 18.684        | 66                   |
-| Top   | Q1   | IEEE Transactions on Robotics (TRO)                       | 6.123         | 120                  |
-| Top   | Q1   | International Journal of Robotics Research (IJRR)         | 4.703         | 84                   |
-| Top   | Q2   | JOURNAL OF FIELD ROBOTICS (JFR)                           | 3.581         | 66                   |
-|       | Q1   | IEEE/ASME Transactions on Mechatronics                    | 5.673         | 279                  |
-|       | Q1   | Transactions on Automation Science and Engineering (TASE) | 5.224         | 157                  |
-|       | Q1   | ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING            | 5.057         | 156                  |
-|       | Q1   | Soft Robotics                                             | 5.543         | 46                   |
-|       | Q1   | IEEE Robotics and Automation Letters (RAL)                | 3.608         | 594                  |
-|       | Q2   | ROBOTICS AND AUTONOMOUS SYSTEMS (RAS)                     | 2.93          | 180                  |
-|       | Q2   | AUTONOMOUS ROBOTS                                         | 3.602         | 122                  |
+| Level | CAS  | JCR  | Journal Name                                              | Impact Factor | # of paper published |
+| :---- | ---- | ---- | --------------------------------------------------------- | ------------- | -------------------- |
+| Top   |      | Q1   | Science Robotics                                          | 18.684        | 66                   |
+| Top   |      | Q1   | IEEE Transactions on Robotics (TRO)                       | 6.123         | 120                  |
+| Top   |      | Q1   | International Journal of Robotics Research (IJRR)         | 4.703         | 84                   |
+| Top   |      | Q2   | JOURNAL OF FIELD ROBOTICS (JFR)                           | 3.581         | 66                   |
+|       |      | Q1   | IEEE/ASME Transactions on Mechatronics                    | 5.673         | 279                  |
+|       |      | Q1   | Transactions on Automation Science and Engineering (TASE) | 5.224         | 157                  |
+|       |      | Q1   | IEEE Transactions on Cybernetics                          | 11.448        |                      |
+|       |      | Q1   | ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING            | 5.057         | 156                  |
+|       |      | Q1   | Soft Robotics                                             | 5.543         | 46                   |
+|       | 2    | Q2   | IEEE Robotics and Automation Letters (RAL)                | 3.608         | 594                  |
+|       | 3    | Q2   | IEEE Transactions on Cognitive and Developmental Systems  | 3.379         |                      |
+|       |      | Q2   | ROBOTICS AND AUTONOMOUS SYSTEMS (RAS)                     | 2.93          | 180                  |
+|       |      | Q2   | AUTONOMOUS ROBOTS                                         | 3.602         | 122                  |
 
 ## Computer Vision and AI
 
-| CCF Level | JCR  | Journal Name                                                 | Impact Factor | # of paper published |
-| :-------- | ---- | ------------------------------------------------------------ | ------------- | -------------------- |
-| A         | Q1   | IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE (TPAMI) | 17.861        |                      |
-| -         | -    | Nature Machine Intelligence                                  |               |                      |
-| A         | Q1   | International Journal of Computer Vision (IJCV)              | 5.698         |                      |
-| A         | Q2   | Journal of Machine Learning Research (JMLR)                  | 3.484         |                      |
-| A         | Q1   | IEEE Transactions on Image Processing (TIP)                  | 9.34          |                      |
-| A         | Q1   | ACM Transactions on Graphics (TOG)                           | 5.084         |                      |
-| A         | Q1   | IEEE Transactions on Visualization and Computer Graphics (TVCG) | 4.558         |                      |
-| B         | Q1   | IEEE Transactions on Multimedia (TMM)                        | 5.45          | 258                  |
-| B         | Q2   | IEEE Transactions on Audio, Speech, and Language Processing (TASLP) | 3.40          |                      |
-| B         | Q2   | Computer Vision and Image Understanding ([CVIU](https://www.journals.elsevier.com/pattern-recognition-letters)) | 3.121         |                      |
-| B         | Q1   | IEEE Transactions on Neural Networks and learning systems (TNNLS) | 8.793         | 534                  |
-| B         | Q1   | Pattern Recognition ([PR](https://www.journals.elsevier.com/pattern-recognition)) | 7.196         |                      |
-| B         | Q1   | IEEE Transactions on Circuits and Systems for Video Technology ([TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)) | 4.133         |                      |
-| B         | -    | ACM Transactions on Speech and Language Processing (TSLP)    | -             |                      |
-| B         | Q1   | INFORMATION SCIENCES                                         | 5.91          |                      |
-| C         | Q2   | Pattern Recognition Letters ([PRL](https://www.journals.elsevier.com/pattern-recognition-letters)) | 3.255         |                      |
-| C         | Q1   | [Neurocomputing](journals.elsevier.com/neurocomputing)       | 4.438         | 1323                 |
-| C         | Q1   | [Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications) | 5.452         |                      |
-| -         | Q1   | [Information Fusion](https://www.sciencedirect.com/journal/information-fusion) | 13.67         | 83                   |
+| CCF  | CAS  | JCR  | Journal Name                                                 | Impact Factor | # of paper published |
+| :--- | ---- | ---- | ------------------------------------------------------------ | ------------- | -------------------- |
+| A    |      | Q1   | IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE (TPAMI) | 17.861        |                      |
+| -    |      | -    | Nature Machine Intelligence                                  |               |                      |
+| A    |      | Q1   | International Journal of Computer Vision (IJCV)              | 5.698         |                      |
+| A    |      | Q2   | Journal of Machine Learning Research (JMLR)                  | 3.484         |                      |
+| A    |      | Q1   | IEEE Transactions on Image Processing (TIP)                  | 9.34          |                      |
+| A    |      | Q1   | ACM Transactions on Graphics (TOG)                           | 5.084         |                      |
+| A    |      | Q1   | IEEE Transactions on Visualization and Computer Graphics (TVCG) | 4.558         |                      |
+| B    | 1    | Q1   | IEEE Transactions on Neural Networks and learning systems (TNNLS) | 10.451        | 534                  |
+| B    | 1    | Q1   | Pattern Recognition ([PR](https://www.journals.elsevier.com/pattern-recognition)) | 7.74          |                      |
+| B    |      | Q1   | IEEE Transactions on Multimedia (TMM)                        | 6.513         | 258                  |
+| B    |      | Q1   | IEEE Transactions on Circuits and Systems for Video Technology ([TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)) | 4.685         |                      |
+| B    |      | Q2   | IEEE Transactions on Audio, Speech, and Language Processing (TASLP) | 3.40          |                      |
+| B    |      | Q2   | Computer Vision and Image Understanding ([CVIU](https://www.journals.elsevier.com/pattern-recognition-letters)) | 3.121         |                      |
+| B    |      | -    | ACM Transactions on Speech and Language Processing (TSLP)    | -             |                      |
+| B    |      | Q1   | INFORMATION SCIENCES                                         | 5.91          |                      |
+| C    | 1    | Q1   | Knowledge-Based Systems (KBS)                                | 8.038         |                      |
+| C    | 1    | Q1   | [Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications) | 6.954         |                      |
+| C    |      | Q1   | [Neurocomputing](journals.elsevier.com/neurocomputing)       | 4.438         | 1323                 |
+| C    |      | Q2   | Pattern Recognition Letters ([PRL](https://www.journals.elsevier.com/pattern-recognition-letters)) | 3.255         |                      |
+| -    |      | Q1   | [Information Fusion](https://www.sciencedirect.com/journal/information-fusion) | 13.67         | 83                   |
 
 # Target Conferences
 
@@ -64,6 +67,7 @@
 | B         | ICRA            | ~1800                | ~40%            |
 | C         | IROS            | ~1000                | ~47%            |
 | *         | CoRL            | ~200                 | ~27%            |
+| *         | RSS             | ~100                 | ~30%            |
 
 
 
