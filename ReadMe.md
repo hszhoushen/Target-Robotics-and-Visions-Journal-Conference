@@ -2,36 +2,36 @@
 
 ## Robotics
 
-| Level | CAS  | JCR  | Journal Name                                              | Impact Factor | # of paper published |
-| :---- | ---- | ---- | --------------------------------------------------------- | ------------- | -------------------- |
-| Top   |      | Q1   | Science Robotics                                          | 18.684        | 66                   |
-| Top   |      | Q1   | IEEE Transactions on Robotics (TRO)                       | 6.123         | 120                  |
-| Top   |      | Q1   | International Journal of Robotics Research (IJRR)         | 4.703         | 84                   |
-| Top   |      | Q2   | JOURNAL OF FIELD ROBOTICS (JFR)                           | 3.581         | 66                   |
-|       |      | Q1   | IEEE/ASME Transactions on Mechatronics                    | 5.673         | 279                  |
-|       |      | Q1   | Transactions on Automation Science and Engineering (TASE) | 5.224         | 157                  |
-|       |      | Q1   | IEEE Transactions on Cybernetics                          | 11.448        |                      |
-|       |      | Q1   | ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING            | 5.057         | 156                  |
-|       |      | Q1   | Soft Robotics                                             | 5.543         | 46                   |
-|       | 2    | Q2   | IEEE Robotics and Automation Letters (RAL)                | 3.608         | 594                  |
-|       | 3    | Q2   | IEEE Transactions on Cognitive and Developmental Systems  | 3.379         |                      |
-|       |      | Q2   | ROBOTICS AND AUTONOMOUS SYSTEMS (RAS)                     | 2.93          | 180                  |
-|       |      | Q2   | AUTONOMOUS ROBOTS                                         | 3.602         | 122                  |
+| Level | CAS  | JCR  | Journal Name                                                 | Impact Factor | # of paper published |
+| :---- | ---- | ---- | ------------------------------------------------------------ | ------------- | -------------------- |
+| Top   |      | Q1   | Science Robotics                                             | 18.684        | 66                   |
+| Top   |      | Q1   | IEEE Transactions on Robotics (TRO)                          | 6.123         | 120                  |
+| Top   |      | Q1   | International Journal of Robotics Research (IJRR)            | 4.703         | 84                   |
+| Top   |      | Q2   | Journal of Field Robotics ([JFR]((https://www.journalfieldrobotics.org/))) | 3.581         | 66                   |
+|       |      | Q1   | IEEE/ASME Transactions on Mechatronics                       | 5.673         | 279                  |
+|       |      | Q1   | IEEE Transactions on Automation Science and Engineering (TASE) | 5.224         | 157                  |
+|       |      | Q1   | IEEE Transactions on Cybernetics                             | 11.448        |                      |
+|       |      | Q1   | Robotics and Computer-Integrated Manufacturing               | 5.057         | 156                  |
+|       |      | Q1   | Soft Robotics                                                | 5.543         | 46                   |
+|       | 2    | Q2   | IEEE Robotics and Automation Letters (RAL)                   | 3.608         | 594                  |
+|       | 3    | Q2   | IEEE Transactions on Cognitive and Developmental Systems (TCDS) | 3.379         |                      |
+|       |      | Q2   | Robotics and Autonomous Systems (RAS)                        | 2.93          | 180                  |
+|       |      | Q2   | Autonomous Robots (AURO)                                     | 3.602         | 122                  |
 
-## Computer Vision 
+## Computer Vision and AI
 
 | CCF  | CAS  | JCR  | Journal Name                                                 | Impact Factor | # of paper published |
 | :--- | ---- | ---- | ------------------------------------------------------------ | ------------- | -------------------- |
-| A    |      | Q1   | IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE ([TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)) | 17.861        |                      |
-| -    |      | -    | Nature Machine Intelligence                                  |               |                      |
-| A    |      | Q1   | International Journal of Computer Vision ([IJCV](https://www.springer.com/journal/11263)) | 5.698         |                      |
+| A    |      | Q1   | IEEE Transactions on Pattern Analysis and Machine Intelligence ([TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)) | 17.861        |                      |
 | A    |      | Q1   | IEEE Transactions on Image Processing ([TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)) | 9.34          |                      |
+| A    |      | Q1   | International Journal of Computer Vision ([IJCV](https://www.springer.com/journal/11263)) | 5.698         |                      |
+| -    |      | -    | Nature Machine Intelligence                                  |               |                      |
 | B    | 1    | Q1   | IEEE Transactions on Neural Networks and learning systems ([TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)) | 10.451        | 534                  |
 | B    | 1    | Q1   | Pattern Recognition ([PR](https://www.journals.elsevier.com/pattern-recognition)) | 7.74          |                      |
 | B    |      | Q1   | IEEE Transactions on Multimedia ([TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)) | 6.513         | 258                  |
 | B    |      | Q1   | IEEE Transactions on Circuits and Systems for Video Technology ([TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)) | 4.685         |                      |
 | B    |      | Q2   | Computer Vision and Image Understanding ([CVIU](https://www.journals.elsevier.com/pattern-recognition-letters)) | 3.121         |                      |
-| B    |      | Q1   | INFORMATION SCIENCES                                         | 5.91          |                      |
+| B    |      | Q1   | Information Sciences                                         | 6.795         |                      |
 | C    | 1    | Q1   | Knowledge-Based Systems (KBS)                                | 8.038         |                      |
 | C    | 1    | Q1   | [Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications) | 6.954         |                      |
 | C    |      | Q1   | [Neurocomputing](journals.elsevier.com/neurocomputing)       | 4.438         | 1323                 |
@@ -39,21 +39,6 @@
 | -    |      | Q1   | [Information Fusion](https://www.sciencedirect.com/journal/information-fusion) | 13.67         | 83                   |
 
 # Target Conferences
-
-## Computer Vision and AI
-
-| CCF Level | Conference Name | # of paper published | Acceptance Rate |
-| :-------- | --------------- | -------------------- | --------------- |
-| A         | CVPR            |                      |                 |
-| A         | NeurIPS         |                      |                 |
-| A         | ICCV            |                      |                 |
-| A         | AAAI            |                      |                 |
-| A         | IJCAI           | 587                  | 19.3%           |
-| A         | ACM MM          |                      |                 |
-| A         | SIGGRAPH        |                      |                 |
-| B         | ECCV            |                      |                 |
-| C         | ICIP            |                      |                 |
-| C         | ICPR            |                      |                 |
 
 ## Robotics
 
@@ -63,6 +48,22 @@
 | C         | IROS            | ~1000                | ~47%            |
 | *         | CoRL            | ~200                 | ~27%            |
 | *         | RSS             | ~100                 | ~30%            |
+
+
+
+## Computer Vision and AI
+
+| CCF Level | Conference Name | # of paper published | Acceptance Rate |
+| :-------- | --------------- | -------------------- | --------------- |
+| A         | CVPR            |                      |                 |
+| A         | ICCV            |                      |                 |
+| B         | ECCV            |                      |                 |
+| A         | NeurIPS         |                      |                 |
+| A         | AAAI            |                      |                 |
+| A         | IJCAI           | 587                  | 19.3%           |
+| A         | ACM MM          |                      |                 |
+| C         | ICIP            |                      |                 |
+| C         | ICPR            |                      |                 |
 
 
 
