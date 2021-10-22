@@ -33,7 +33,7 @@
 | B    |      | Q2   | Computer Vision and Image Understanding ([CVIU](https://www.journals.elsevier.com/pattern-recognition-letters)) | 3.121         |                      |
 | B    |      | Q1   | Information Sciences                                         | 6.795         |                      |
 | C    | 1    | Q1   | Knowledge-Based Systems (KBS)                                | 8.038         |                      |
-| C    | 1    | Q1   | [Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications) | 6.954         |                      |
+| C    | 1    | Q1   | [Expert Systems with Applications ([ESWA](https://www.journals.elsevier.com/expert-systems-with-applications)) | 6.954         |                      |
 | C    |      | Q1   | [Neurocomputing](https://journals.elsevier.com/neurocomputing) | 5.719         | 1323                 |
 | C    |      | Q2   | Pattern Recognition Letters ([PRL](https://www.journals.elsevier.com/pattern-recognition-letters)) | 3.255         |                      |
 | -    |      | Q1   | [Information Fusion](https://www.sciencedirect.com/journal/information-fusion) | 13.67         | 83                   |
@@ -69,15 +69,13 @@
 
 # Journal List
 
- ([Impact Factor Search](https://jcr.clarivate.com/)), 
-
-**Robotics and Its Neighborhood**
+### **Robotics and Its Neighborhood**
 
 **IEEE Transactions**[RAM](http://www.ieee-ras.org/publications/ram)**: IEEE Robotics and Automation Magazine**
 
 Page limit: Regular/Special (-9)
 
-**[T-RO](http://www.ieee-ras.org/publications/t-ro): IEEE Transactions on Robotics**
+**IEEE Transactions on Robotics**
 
 Page limit: Regular (12-20), Short (6-8)
 
@@ -105,7 +103,7 @@ Page limit: Paper (12-), Brief (6-)
 
 Page limit: Regular (8-12), Short (4-6)
 
-**[T-IM](http://ieee-ims.org/publications/transactions-tim): IEEE Transactions on Instrumentation and Measurement**
+**IEEE Transactions on Instrumentation and Measurement**
 
 Page limit: Regular (8-), Short (2-3)
 
@@ -121,17 +119,15 @@ Page limit: Regular (-8), Letter (-3)
 
 Page limit: Regular (-9) / c.f. Author limit (-5)
 
-**[IJRR](http://ijr.sagepub.com/)**: The International Journal of Robotics Research
+**The International Journal of Robotics Research**
 
-[IJRR Supplimentary Content Page ](http://www.ijrr.org/)Page limit: Regular (13-)
+Page limit: Regular (13-)
 
-**Journal of Field Robotics**
 
-[Autonomous Robots Blog](http://www.autonomousrobotsblog.com/)
 
-**Computer Vision**
+### **Computer Vision**
 
-**[T-PAMI](https://www.computer.org/csdl/journal/tp)**: IEEE Transactions on Pattern Analysis and Machine Intelligence
+**IEEE Transactions on Pattern Analysis and Machine Intelligence**
 
 Page limit: Regular (-18), Short (-8), Comments (-2.5), Survey (-20)
 
@@ -143,11 +139,7 @@ Page limit: Regular (-13), Correspondence (-2)
 
 Page limit: Paper (-14), Letter (-5)
 
-**[IJCV](http://www.springer.com/computer/image+processing/journal/11263)**: International Journal of Computer Vision
 
-**Computer Vision and Image Understanding**
-
-**[Pattern Recognition](http://www.journals.elsevier.com/pattern-recognition) (SCI)**
 
 
 
@@ -164,4 +156,6 @@ Page limit: Paper (-14), Letter (-5)
 [5] [CCF Computer Graphics and Multimedia](https://www.ccf.org.cn/Academic_Evaluation/CGAndMT/)
 
 [6] [Web of Science](https://apps.webofknowledge.com/)
+
+[7] [Impact Factor Search](https://jcr.clarivate.com/)
 
