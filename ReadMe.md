@@ -18,24 +18,19 @@
 |       |      | Q2   | ROBOTICS AND AUTONOMOUS SYSTEMS (RAS)                     | 2.93          | 180                  |
 |       |      | Q2   | AUTONOMOUS ROBOTS                                         | 3.602         | 122                  |
 
-## Computer Vision and AI
+## Computer Vision 
 
 | CCF  | CAS  | JCR  | Journal Name                                                 | Impact Factor | # of paper published |
 | :--- | ---- | ---- | ------------------------------------------------------------ | ------------- | -------------------- |
-| A    |      | Q1   | IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE (TPAMI) | 17.861        |                      |
+| A    |      | Q1   | IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE ([TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)) | 17.861        |                      |
 | -    |      | -    | Nature Machine Intelligence                                  |               |                      |
-| A    |      | Q1   | International Journal of Computer Vision (IJCV)              | 5.698         |                      |
-| A    |      | Q2   | Journal of Machine Learning Research (JMLR)                  | 3.484         |                      |
-| A    |      | Q1   | IEEE Transactions on Image Processing (TIP)                  | 9.34          |                      |
-| A    |      | Q1   | ACM Transactions on Graphics (TOG)                           | 5.084         |                      |
-| A    |      | Q1   | IEEE Transactions on Visualization and Computer Graphics (TVCG) | 4.558         |                      |
-| B    | 1    | Q1   | IEEE Transactions on Neural Networks and learning systems (TNNLS) | 10.451        | 534                  |
+| A    |      | Q1   | International Journal of Computer Vision ([IJCV](https://www.springer.com/journal/11263)) | 5.698         |                      |
+| A    |      | Q1   | IEEE Transactions on Image Processing ([TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)) | 9.34          |                      |
+| B    | 1    | Q1   | IEEE Transactions on Neural Networks and learning systems ([TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)) | 10.451        | 534                  |
 | B    | 1    | Q1   | Pattern Recognition ([PR](https://www.journals.elsevier.com/pattern-recognition)) | 7.74          |                      |
-| B    |      | Q1   | IEEE Transactions on Multimedia (TMM)                        | 6.513         | 258                  |
+| B    |      | Q1   | IEEE Transactions on Multimedia ([TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)) | 6.513         | 258                  |
 | B    |      | Q1   | IEEE Transactions on Circuits and Systems for Video Technology ([TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)) | 4.685         |                      |
-| B    |      | Q2   | IEEE Transactions on Audio, Speech, and Language Processing (TASLP) | 3.40          |                      |
 | B    |      | Q2   | Computer Vision and Image Understanding ([CVIU](https://www.journals.elsevier.com/pattern-recognition-letters)) | 3.121         |                      |
-| B    |      | -    | ACM Transactions on Speech and Language Processing (TSLP)    | -             |                      |
 | B    |      | Q1   | INFORMATION SCIENCES                                         | 5.91          |                      |
 | C    | 1    | Q1   | Knowledge-Based Systems (KBS)                                | 8.038         |                      |
 | C    | 1    | Q1   | [Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications) | 6.954         |                      |
