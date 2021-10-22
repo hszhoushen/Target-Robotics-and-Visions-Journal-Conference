@@ -34,7 +34,7 @@
 | B    |      | Q1   | Information Sciences                                         | 6.795         |                      |
 | C    | 1    | Q1   | Knowledge-Based Systems (KBS)                                | 8.038         |                      |
 | C    | 1    | Q1   | [Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications) | 6.954         |                      |
-| C    |      | Q1   | [Neurocomputing](journals.elsevier.com/neurocomputing)       | 4.438         | 1323                 |
+| C    |      | Q1   | [Neurocomputing](https://journals.elsevier.com/neurocomputing) | 5.719         | 1323                 |
 | C    |      | Q2   | Pattern Recognition Letters ([PRL](https://www.journals.elsevier.com/pattern-recognition-letters)) | 3.255         |                      |
 | -    |      | Q1   | [Information Fusion](https://www.sciencedirect.com/journal/information-fusion) | 13.67         | 83                   |
 
