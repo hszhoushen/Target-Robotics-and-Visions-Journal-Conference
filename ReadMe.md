@@ -9,7 +9,7 @@
 | Top   |      | Q1   | International Journal of Robotics Research (IJRR)            | 4.703         | 84                   |
 | Top   |      | Q2   | Journal of Field Robotics ([JFR]((https://www.journalfieldrobotics.org/))) | 3.581         | 66                   |
 |       |      | Q1   | IEEE/ASME Transactions on Mechatronics                       | 5.673         | 279                  |
-|       |      | Q1   | IEEE Transactions on Automation Science and Engineering (TASE) | 5.224         | 157                  |
+|       |      | Q1   | IEEE Transactions on Automation Science and Engineering ([TASE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856)) | 5.224         | 157                  |
 |       |      | Q1   | IEEE Transactions on Cybernetics                             | 11.448        |                      |
 |       |      | Q1   | Robotics and Computer-Integrated Manufacturing               | 5.057         | 156                  |
 |       |      | Q1   | Soft Robotics                                                | 5.543         | 46                   |
