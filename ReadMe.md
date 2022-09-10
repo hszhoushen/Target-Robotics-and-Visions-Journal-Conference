@@ -27,10 +27,10 @@
 | A    |      | Q1   | International Journal of Computer Vision ([IJCV](https://www.springer.com/journal/11263)) | 13.4          |                      |
 | -    |      | -    | [Nature Machine Intelligence](https://www.nature.com/natmachintell/) |               |                      |
 | B    | 1    | Q1   | IEEE Transactions on Neural Networks and learning systems ([TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)) | 14.3          | 534                  |
-| B    | 1    | Q1   | Pattern Recognition ([PR](https://www.journals.elsevier.com/pattern-recognition)) | 7.74          |                      |
+| B    | 1    | Q1   | Pattern Recognition ([PR](https://www.journals.elsevier.com/pattern-recognition)) | 8.5           |                      |
 | B    |      | Q1   | IEEE Transactions on Multimedia ([TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)) | 8.2           | 258                  |
 | B    |      | Q1   | IEEE Transactions on Circuits and Systems for Video Technology ([TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)) | 5.9           |                      |
-| B    |      | Q2   | Computer Vision and Image Understanding ([CVIU](https://www.journals.elsevier.com/pattern-recognition-letters)) | 3.121         |                      |
+| B    |      | Q2   | Computer Vision and Image Understanding ([CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding)) | 4.9           |                      |
 | B    |      | Q1   | [Information Sciences](https://www.sciencedirect.com/journal/information-sciences) | 8.2           |                      |
 | C    | 1    | Q1   | Knowledge-Based Systems ([KBS](https://www.sciencedirect.com/journal/knowledge-based-systems)) | 8.1           |                      |
 | C    | 1    | Q1   | Expert Systems with Applications ([ESWA](https://www.journals.elsevier.com/expert-systems-with-applications)) | 8.7           |                      |
