@@ -5,16 +5,16 @@
 | Level | CAS  | JCR  | Journal Name                                                 | Impact Factor | # of paper published |
 | :---- | ---- | ---- | ------------------------------------------------------------ | ------------- | -------------------- |
 | Top   |      | Q1   | Science Robotics                                             | 18.684        | 66                   |
-| Top   |      | Q1   | IEEE Transactions on Robotics (TRO)                          | 6.123         | 120                  |
+| Top   |      | Q1   | IEEE Transactions on Robotics ([T-RO](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)) | 6.8           | 120                  |
 | Top   |      | Q1   | International Journal of Robotics Research (IJRR)            | 4.703         | 84                   |
 | Top   |      | Q2   | Journal of Field Robotics ([JFR]((https://www.journalfieldrobotics.org/))) | 3.581         | 66                   |
-|       |      | Q1   | IEEE/ASME Transactions on Mechatronics                       | 5.673         | 279                  |
-|       |      | Q1   | IEEE Transactions on Automation Science and Engineering ([TASE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856)) | 5.224         | 157                  |
-|       |      | Q1   | IEEE Transactions on Cybernetics                             | 11.448        |                      |
+|       |      | Q1   | IEEE/ASME Transactions on Mechatronics([T-MECH](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516)) | 5.673         | 279                  |
+|       |      | Q1   | IEEE Transactions on Automation Science and Engineering ([T-ASE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856)) | 6.6           | 157                  |
+|       |      | Q1   | IEEE Transactions on Cybernetics ([T-CYB](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)) | 19.1          |                      |
 |       |      | Q1   | Robotics and Computer-Integrated Manufacturing               | 5.057         | 156                  |
 |       |      | Q1   | Soft Robotics                                                | 5.543         | 46                   |
-|       | 2    | Q2   | IEEE Robotics and Automation Letters (RAL)                   | 3.608         | 594                  |
-|       | 2    | Q2   | IEEE Transactions on Cognitive and Developmental Systems (TCDS) | 3.379         |                      |
+|       | 2    | Q2   | IEEE Robotics and Automation Letters ([RA-L](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369)) | 4.3           | 594                  |
+|       | 2    | Q2   | IEEE Transactions on Cognitive and Developmental Systems ([T-CDS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989)) | 4.5           |                      |
 |       |      | Q2   | Robotics and Autonomous Systems (RAS)                        | 2.93          | 180                  |
 |       |      | Q2   | Autonomous Robots (AURO)                                     | 3.602         | 122                  |
 
