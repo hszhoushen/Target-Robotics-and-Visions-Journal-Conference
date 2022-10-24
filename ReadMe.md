@@ -20,30 +20,31 @@
 
 ## Computer Vision and AI
 
-| CCF  | CAS  | JCR  | Journal Name                                                 | Impact Factor | # of paper published |
-| :--- | ---- | ---- | ------------------------------------------------------------ | ------------- | -------------------- |
-| A    |      | Q1   | IEEE Transactions on Pattern Analysis and Machine Intelligence ([TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)) | 24.3          |                      |
-| A    |      | Q1   | IEEE Transactions on Image Processing ([TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)) | 11.0          |                      |
-| A    |      | Q1   | International Journal of Computer Vision ([IJCV](https://www.springer.com/journal/11263)) | 13.4          |                      |
-| -    |      | -    | [Nature Machine Intelligence](https://www.nature.com/natmachintell/) |               |                      |
-| B    | 1    | Q1   | IEEE Transactions on Neural Networks and learning systems ([TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)) | 14.3          | 534                  |
-| B    | 1    | Q1   | Pattern Recognition ([PR](https://www.journals.elsevier.com/pattern-recognition)) | 8.5           |                      |
-| B    |      | Q1   | IEEE Transactions on Multimedia ([TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)) | 8.2           | 258                  |
-| B    |      | Q1   | IEEE Transactions on Circuits and Systems for Video Technology ([TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)) | 5.9           |                      |
-| B    |      | Q2   | Computer Vision and Image Understanding ([CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding)) | 4.9           |                      |
-| B    |      | Q1   | [Information Sciences](https://www.sciencedirect.com/journal/information-sciences) | 8.2           |                      |
-| C    | 1    | Q1   | Knowledge-Based Systems ([KBS](https://www.sciencedirect.com/journal/knowledge-based-systems)) | 8.1           |                      |
-| C    | 1    | Q1   | Expert Systems with Applications ([ESWA](https://www.journals.elsevier.com/expert-systems-with-applications)) | 8.7           |                      |
-| C    |      | Q1   | [Neurocomputing](https://journals.elsevier.com/neurocomputing) | 5.8           | 1323                 |
-| C    |      | Q2   | [Applied Intelligence](https://www.springer.com/journal/10489/?gclid=CjwKCAjwzNOaBhAcEiwAD7Tb6AjLf5DK4hJ0x6nHR1JKioD610RG7aJGBy9W70_wYmSlrVUpauSVcRoClY0QAvD_BwE) | 5.0           |                      |
-| C    |      | Q2   | Pattern Recognition Letters ([PRL](https://www.journals.elsevier.com/pattern-recognition-letters)) | 4.8           |                      |
-| C    |      |      | [Image and Vision Computing](https://www.sciencedirect.com/journal/image-and-vision-computing) | 3.9           |                      |
-| C    |      |      | [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97) | 3.2           |                      |
-| C    |      |      | [Machine Vision and Applications](https://www.springer.com/journal/138/) | 3.0           |                      |
-| C    |      |      | [Expert Systems](https://onlinelibrary.wiley.com/journal/14680394) | 2.8           |                      |
-| C    |      |      | [International Journal of Neural Systems](https://www.worldscientific.com/worldscinet/ijns) | 6.3           |                      |
-| C    |      |      | [Natural Computing](https://www.springer.com/journal/11047/) | 1.5           |                      |
-| -    |      | Q1   | [Information Fusion](https://www.sciencedirect.com/journal/information-fusion) | 17.6          | 83                   |
+| CCF  | CAS  | JCR  | Journal Name                                                 | Impact Factor | Submission to first decision (Median) |
+| :--- | ---- | ---- | ------------------------------------------------------------ | ------------- | ------------------------------------- |
+| A    |      | Q1   | IEEE Transactions on Pattern Analysis and Machine Intelligence ([TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)) | 24.3          |                                       |
+| A    |      | Q1   | IEEE Transactions on Image Processing ([TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)) | 11.0          |                                       |
+| A    |      | Q1   | International Journal of Computer Vision ([IJCV](https://www.springer.com/journal/11263)) | 13.4          |                                       |
+| -    |      | -    | [Nature Machine Intelligence](https://www.nature.com/natmachintell/) |               |                                       |
+| B    | 1    | Q1   | IEEE Transactions on Neural Networks and learning systems ([TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)) | 14.3          |                                       |
+| B    | 1    | Q1   | Pattern Recognition ([PR](https://www.journals.elsevier.com/pattern-recognition)) | 8.5           |                                       |
+| B    |      | Q1   | IEEE Transactions on Multimedia ([TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)) | 8.2           |                                       |
+| B    |      | Q1   | IEEE Transactions on Circuits and Systems for Video Technology ([TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)) | 5.9           | ~8 weeks                              |
+| B    |      | Q2   | Computer Vision and Image Understanding ([CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding)) | 4.9           | ~10.4 weeks                           |
+| B    |      | Q1   | [Information Sciences](https://www.sciencedirect.com/journal/information-sciences) | 8.2           |                                       |
+| C    | 1    | Q1   | Knowledge-Based Systems ([KBS](https://www.sciencedirect.com/journal/knowledge-based-systems)) | 8.1           |                                       |
+| C    | 1    | Q1   | Expert Systems with Applications ([ESWA](https://www.journals.elsevier.com/expert-systems-with-applications)) | 8.7           |                                       |
+| C    |      | Q1   | [Neurocomputing](https://journals.elsevier.com/neurocomputing) | 5.8           |                                       |
+|      |      |      | [Neural Computing and Applications](https://www.springer.com/journal/521/) | 5.1           |                                       |
+| C    |      | Q2   | [Applied Intelligence](https://www.springer.com/journal/10489/?gclid=CjwKCAjwzNOaBhAcEiwAD7Tb6AjLf5DK4hJ0x6nHR1JKioD610RG7aJGBy9W70_wYmSlrVUpauSVcRoClY0QAvD_BwE) | 5.0           | ~19 days                              |
+| C    |      | Q2   | Pattern Recognition Letters ([PRL](https://www.journals.elsevier.com/pattern-recognition-letters)) | 4.8           |                                       |
+| C    |      |      | [Image and Vision Computing](https://www.sciencedirect.com/journal/image-and-vision-computing) | 3.9           |                                       |
+| C    |      |      | [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97) | 3.2           |                                       |
+| C    |      |      | [Machine Vision and Applications](https://www.springer.com/journal/138/) | 3.0           |                                       |
+| C    |      |      | [Expert Systems](https://onlinelibrary.wiley.com/journal/14680394) | 2.8           |                                       |
+| C    |      |      | [International Journal of Neural Systems](https://www.worldscientific.com/worldscinet/ijns) | 6.3           |                                       |
+| C    |      |      | [Natural Computing](https://www.springer.com/journal/11047/) | 1.5           |                                       |
+| -    |      | Q1   | [Information Fusion](https://www.sciencedirect.com/journal/information-fusion) | 17.6          |                                       |
 
 
 
@@ -51,30 +52,33 @@
 
 ## Robotics
 
-| CCF Level | Conference Name | # of paper published | Acceptance Rate |
-| :-------- | --------------- | -------------------- | --------------- |
-| B         | ICRA            | ~1800                | ~40%            |
-| C         | IROS            | ~1000                | ~47%            |
-| *         | CoRL            | ~200                 | ~27%            |
-| *         | RSS             | ~100                 | ~30%            |
+| CCF Level | Conference Name | h5-index | h5-median |
+| :-------- | --------------- | -------- | --------- |
+| B         | ICRA            | 116      | 188       |
+| C         | IROS            | 80       | 116       |
+| *         | CoRL            | 64       | 114       |
+| *         | RSS             | 58       | 102       |
 
 
 
 ## Computer Vision and AI
 
-| CCF Level | Conference Name | # of paper published | Acceptance Rate |
-| :-------- | --------------- | -------------------- | --------------- |
-| A         | CVPR            |                      |                 |
-| A         | ICCV            |                      |                 |
-| B         | ECCV            |                      |                 |
-| A         | NeurIPS         |                      |                 |
-| A         | AAAI            |                      |                 |
-| A         | IJCAI           | 587                  | 19.3%           |
-| A         | ACM MM          |                      |                 |
-| B         | ICME            |                      |                 |
-| B         | ICASSP          |                      |                 |
-| C         | ICIP            |                      |                 |
-| C         | ICPR            |                      |                 |
+| CCF Level | Conference Name                                              | h5-index | h5-median |
+| :-------- | ------------------------------------------------------------ | -------- | --------- |
+| A         | IEEE/CVF Conference on Computer Vision and Pattern Recognition | 389      | 627       |
+| A         | IEEE/CVF International Conference on Computer Vision         | 239      | 415       |
+| B         | European Conference on Computer Vision                       | 186      | 321       |
+| A         | NeurIPS                                                      | 278      | 436       |
+| A         | AAAI                                                         | 180      | 296       |
+| A         | IJCAI                                                        | 120      | 186       |
+| A         | ACM International Conference on Multimedia                   | 71       | 102       |
+| B         | IEEE International Conference on Multimedia and Expo         | 40       | 70        |
+| B         | ICASSP                                                       | 110      | 171       |
+| C         | Conference of the International Speech Communication Association (INTERSPEECH) | 100      | 158       |
+| C         | British Machine Vision Conference (BMVC)                     | 75       | 121       |
+| C         | ICIP                                                         | 60       | 88        |
+| C         | ICPR                                                         | 43       | 61        |
+|           | IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) | 76       | 109       |
 
 
 
@@ -169,4 +173,6 @@ Page limit: Paper (-14), Letter (-5)
 [6] [Web of Science](https://apps.webofknowledge.com/)
 
 [7] [Impact Factor Search](https://jcr.clarivate.com/)
+
+[8] [google scholar metric](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=en)
 
