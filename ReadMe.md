@@ -35,7 +35,7 @@
 | C    | 1    | Q1   | Knowledge-Based Systems ([KBS](https://www.sciencedirect.com/journal/knowledge-based-systems)) | 8.1           |                                       |
 | C    | 1    | Q1   | Expert Systems with Applications ([ESWA](https://www.journals.elsevier.com/expert-systems-with-applications)) | 8.7           |                                       |
 | C    |      | Q1   | [Neurocomputing](https://journals.elsevier.com/neurocomputing) | 5.8           |                                       |
-|      |      |      | [Neural Computing and Applications](https://www.springer.com/journal/521/) | 5.1           |                                       |
+|      |      |      | [Neural Computing and Applications](https://www.springer.com/journal/521/) | 5.1           | ~48 days                              |
 | C    |      | Q2   | [Applied Intelligence](https://www.springer.com/journal/10489/?gclid=CjwKCAjwzNOaBhAcEiwAD7Tb6AjLf5DK4hJ0x6nHR1JKioD610RG7aJGBy9W70_wYmSlrVUpauSVcRoClY0QAvD_BwE) | 5.0           | ~19 days                              |
 | C    |      | Q2   | Pattern Recognition Letters ([PRL](https://www.journals.elsevier.com/pattern-recognition-letters)) | 4.8           |                                       |
 | C    |      |      | [Image and Vision Computing](https://www.sciencedirect.com/journal/image-and-vision-computing) | 3.9           |                                       |
