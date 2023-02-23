@@ -45,7 +45,7 @@
 | C    |      |      | [Journal of Visual Communication and Image Representation](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation) | 2.9           |                                       |
 | C    |      |      | [Expert Systems](https://onlinelibrary.wiley.com/journal/14680394) | 2.8           |                                       |
 | C    |      |      | [The Visual Computer](https://www.springer.com/journal/371/) | 2.8           |                                       |
-| c    |      |      | [Multimedia Tools and Applications](https://www.springer.com/journal/11042/) | 2.6           | ~99days                               |
+| C    |      |      | [Multimedia Tools and Applications](https://www.springer.com/journal/11042/) | 2.6           | ~99days                               |
 | C    |      |      | [Multimedia Systems](https://www.springer.com/journal/530/)  | 2.6           | ~23days                               |
 | C    |      |      | [International Journal of Neural Systems](https://www.worldscientific.com/worldscinet/ijns) | 6.3           |                                       |
 | C    |      |      | [Natural Computing](https://www.springer.com/journal/11047/) | 1.5           |                                       |
