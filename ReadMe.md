@@ -34,6 +34,7 @@
 | B    |      | Q1   | [Information Sciences](https://www.sciencedirect.com/journal/information-sciences) | 8.2           |                                       |
 | C    | 1    | Q1   | Knowledge-Based Systems ([KBS](https://www.sciencedirect.com/journal/knowledge-based-systems)) | 8.1           |                                       |
 | C    | 1    | Q1   | Expert Systems with Applications ([ESWA](https://www.journals.elsevier.com/expert-systems-with-applications)) | 8.7           |                                       |
+|      |      | Q1   | IEEE Transactions on Instrumentation and Measurement  ([TIM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19)) | 5.3           | ~3 months                             |
 | C    |      | Q1   | [Neurocomputing](https://journals.elsevier.com/neurocomputing) | 5.8           |                                       |
 |      |      |      | [Neural Computing and Applications](https://www.springer.com/journal/521/) | 5.1           | ~48 days                              |
 | C    |      | Q2   | [Applied Intelligence](https://www.springer.com/journal/10489/?gclid=CjwKCAjwzNOaBhAcEiwAD7Tb6AjLf5DK4hJ0x6nHR1JKioD610RG7aJGBy9W70_wYmSlrVUpauSVcRoClY0QAvD_BwE) | 5.0           | ~19 days                              |
