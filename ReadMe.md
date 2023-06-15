@@ -4,19 +4,19 @@
 
 | Level | CAS  | JCR  | Journal Name                                                 | Impact Factor | # of paper published |
 | :---- | ---- | ---- | ------------------------------------------------------------ | ------------- | -------------------- |
-| Top   |      | Q1   | Science Robotics                                             | 18.7          | 66                   |
+| Top   |      | Q1   | Science Robotics                                             | 27.5          | 66                   |
 | Top   |      | Q1   | IEEE Transactions on Robotics ([T-RO](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)) | 6.8           | 235                  |
-| Top   |      | Q1   | International Journal of Robotics Research (IJRR)            | 4.7           | 49                   |
-| Top   |      | Q2   | Journal of Field Robotics ([JFR]((https://www.journalfieldrobotics.org/))) | 3.6           | 66                   |
+| Top   |      | Q1   | International Journal of Robotics Research (IJRR)            | 6.9           | 49                   |
+| Top   |      | Q2   | Journal of Field Robotics ([JFR]((https://www.journalfieldrobotics.org/))) | 6.4           | 66                   |
 |       |      | Q1   | IEEE/ASME Transactions on Mechatronics ([T-MECH](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516)) | 5.7           | 279                  |
 |       |      | Q1   | IEEE Transactions on Automation Science and Engineering ([T-ASE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856)) | 6.6           | 298                  |
 |       |      | Q1   | IEEE Transactions on Cybernetics ([T-CYB](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)) | 19.1          | 1127                 |
-|       |      | Q1   | Robotics and Computer-Integrated Manufacturing               | 5.1           | 156                  |
-|       |      | Q1   | Soft Robotics                                                | 5.5           | 46                   |
-|       | 2    | Q2   | IEEE Robotics and Automation Letters ([RA-L](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369)) | 4.3           | 1610                 |
-|       | 2    | Q2   | IEEE Transactions on Cognitive and Developmental Systems ([T-CDS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989)) | 4.5           | 150                  |
-|       |      | Q2   | Robotics and Autonomous Systems (RAS)                        | 2.9           | 180                  |
-|       |      | Q2   | Autonomous Robots (AURO)                                     | 3.6           | 122                  |
+|       |      | Q1   | Robotics and Computer-Integrated Manufacturing               | 10.1          | 156                  |
+|       |      | Q1   | Soft Robotics                                                | 7.8           | 46                   |
+|       |      | Q2   | IEEE Robotics and Automation Letters ([RA-L](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369)) | 4.3           | 1610                 |
+|       |      | Q2   | IEEE Transactions on Cognitive and Developmental Systems ([T-CDS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989)) | 4.5           | 150                  |
+|       |      | Q2   | Robotics and Autonomous Systems (RAS)                        | 3.7           | 180                  |
+|       |      | Q3   | Autonomous Robots (AURO)                                     | 3.3           | 122                  |
 
 ## Computer Vision and AI
 
@@ -27,6 +27,7 @@
 | A    |      | Q1   | International Journal of Computer Vision ([IJCV](https://www.springer.com/journal/11263)) | 13.4          |                                       |
 |      | 1    | Q1   | [Nature Machine Intelligence](https://www.nature.com/natmachintell/) | 25.9          |                                       |
 | B    | 1    | Q1   | IEEE Transactions on Neural Networks and learning systems ([TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)) | 14.3          |                                       |
+| B    |      | Q1   | NEURAL NETWORKS                                              | 9.7           |                                       |
 | B    | 1    | Q1   | Pattern Recognition ([PR](https://www.journals.elsevier.com/pattern-recognition)) | 8.5           |                                       |
 | B    |      | Q1   | IEEE Transactions on Multimedia ([TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)) | 8.2           |                                       |
 | B    |      | Q1   | IEEE Transactions on Circuits and Systems for Video Technology ([TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)) | 5.9           | ~8 weeks                              |
@@ -35,8 +36,12 @@
 | C    | 1    | Q1   | Knowledge-Based Systems ([KBS](https://www.sciencedirect.com/journal/knowledge-based-systems)) | 8.1           |                                       |
 | C    | 1    | Q1   | Expert Systems with Applications ([ESWA](https://www.journals.elsevier.com/expert-systems-with-applications)) | 8.7           |                                       |
 |      |      | Q1   | IEEE Transactions on Instrumentation and Measurement ([TIM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19)) | 5.3           | ~3 months                             |
-| C    |      | Q1   | [Neurocomputing](https://journals.elsevier.com/neurocomputing) | 5.8           |                                       |
-|      |      |      | [Neural Computing and Applications](https://www.springer.com/journal/521/) | 5.1           | ~48 days                              |
+|      |      | Q1   | [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing) | 8.3           |                                       |
+|      |      | Q1   | Engineering Applications of Artificial Intelligence          | 7.8           |                                       |
+|      |      | Q1   | [Journal of Intelligent Manufacturing](https://www.springer.com/journal/10845/) | 7.1           |                                       |
+|      |      | Q1   | *International Journal of Intelligent Systems*               | 9.0           |                                       |
+| C    |      | Q2   | [Neurocomputing](https://journals.elsevier.com/neurocomputing) | 5.8           |                                       |
+|      |      | Q2   | [Neural Computing and Applications](https://www.springer.com/journal/521/) | 5.1           | ~48 days                              |
 | C    |      | Q2   | [Applied Intelligence](https://www.springer.com/journal/10489/?gclid=CjwKCAjwzNOaBhAcEiwAD7Tb6AjLf5DK4hJ0x6nHR1JKioD610RG7aJGBy9W70_wYmSlrVUpauSVcRoClY0QAvD_BwE) | 5.0           | ~19 days                              |
 | C    |      | Q2   | Pattern Recognition Letters ([PRL](https://www.journals.elsevier.com/pattern-recognition-letters)) | 4.8           | ~2 months                             |
 | C    |      |      | [Image and Vision Computing](https://www.sciencedirect.com/journal/image-and-vision-computing) | 3.9           |                                       |
@@ -50,6 +55,14 @@
 | C    |      |      | [International Journal of Neural Systems](https://www.worldscientific.com/worldscinet/ijns) | 6.3           |                                       |
 | C    |      |      | [Natural Computing](https://www.springer.com/journal/11047/) | 1.5           |                                       |
 | -    |      | Q1   | [Information Fusion](https://www.sciencedirect.com/journal/information-fusion) | 17.6          |                                       |
+
+
+
+
+
+
+
+
 
 
 
