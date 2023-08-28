@@ -10,3 +10,9 @@
 *.py
 #
 *.txt
+#
+*.pyc
+#
+.idea
+#
+__pycache__
