@@ -7,7 +7,7 @@
 | Top   |      | Q1   | Science Robotics                                             | 25.0       | 61                  |
 | Top   |      | Q1   | IEEE Transactions on Robotics ([T-RO](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)) | 7.8         | 197                |
 | Top   |      | Q1   | International Journal of Robotics Research (IJRR)            | 9.2        | 41                  |
-| Top   |      | Q2   | Journal of Field Robotics ([JFR]((https://www.journalfieldrobotics.org/))) | 8.3        | 81                  |
+| Top   |      | Q1   | Journal of Field Robotics ([JFR]((https://www.journalfieldrobotics.org/))) | 8.3        | 81                  |
 |       |      | Q1   | IEEE/ASME Transactions on Mechatronics ([T-MECH](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516)) | 6.4        | 580                |
 |       |      | Q2   | IEEE Transactions on Automation Science and Engineering ([T-ASE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856)) | 5.6        | 319               |
 |       |      | Q1   | IEEE Transactions on Cybernetics ([T-CYB](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)) | 11.8       | 1017              |
@@ -16,7 +16,7 @@
 |       |      | Q2   | IEEE Robotics and Automation Letters ([RA-L](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369)) | 5.2        | 1600              |
 |       |      | Q2   | IEEE Transactions on Cognitive and Developmental Systems ([T-CDS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989)) | 5.0        | 147                |
 |       |      | Q2   | Robotics and Autonomous Systems (RAS)                        | 4.3       | 170                |
-|       |      | Q3   | Autonomous Robots (AURO)                                     | 3.5          | 51                 |
+|       |      | Q2   | Autonomous Robots (AURO)                                     | 3.5          | 51                 |
 
 
 
