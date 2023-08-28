@@ -8,3 +8,5 @@
 /httpRequests/
 # 
 *.py
+#
+*.txt

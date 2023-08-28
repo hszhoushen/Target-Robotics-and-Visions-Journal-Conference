@@ -22,27 +22,27 @@
 
 | CCF  | CAS  | JCR  | Journal Name                                                 | IF | Num. of paper published |
 | :--- | ---- | ---- | ------------------------------------------------------------ | ------------- | ------------------------------------- |
-| A    |      | Q1   | IEEE Transactions on Pattern Analysis and Machine Intelligence ([TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)) | 24.3          |    677                                   |
-| A    |      | Q1   | IEEE Transactions on Image Processing ([TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)) | 11.0          |               546                        |
-| A    |      | Q1   | International Journal of Computer Vision ([IJCV](https://www.springer.com/journal/11263)) | 13.4          |                 187                      |
-|      | 1    | Q1   | [Nature Machine Intelligence](https://www.nature.com/natmachintell/) | 25.9          |                 114                      |
-| B    | 1    | Q1   | IEEE Transactions on Neural Networks and learning systems ([TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)) | 14.3          |      1062                                 |
+| A    |      | Q1   | IEEE Transactions on Pattern Analysis and Machine Intelligence ([TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)) | 23.6       |    677                                   |
+| A    |      | Q1   | IEEE Transactions on Image Processing ([TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)) | 10.6       |               546                        |
+| A    |      | Q1   | International Journal of Computer Vision ([IJCV](https://www.springer.com/journal/11263)) | 19.5      |                 187                      |
+|      | 1    | Q1   | [Nature Machine Intelligence](https://www.nature.com/natmachintell/) | 23.8      |                 114                      |
+| B    | 1    | Q1   | IEEE Transactions on Neural Networks and learning systems ([TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)) | 10.4      |      1062                                 |
 | B    |      | Q1   | NEURAL NETWORKS                                              | 9.7           | 402 |
-| B    | 1    | Q1   | Pattern Recognition ([PR](https://www.journals.elsevier.com/pattern-recognition)) | 8.5           | 625 |
-| B    |      | Q1   | IEEE Transactions on Multimedia ([TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)) | 8.2           | 308 |
-| B    |      | Q1   | IEEE Transactions on Circuits and Systems for Video Technology ([TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)) | 5.9           | 667                           |
-| B    |      | Q2   | Computer Vision and Image Understanding ([CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding)) | 4.9           | 109                     |
-| B    |      | Q1   | [Information Sciences](https://www.sciencedirect.com/journal/information-sciences) | 8.2           | 1394 |
-| C    | 1    | Q1   | Knowledge-Based Systems ([KBS](https://www.sciencedirect.com/journal/knowledge-based-systems)) | 8.1           | 1246 |
-| C    | 1    | Q1   | Expert Systems with Applications ([ESWA](https://www.journals.elsevier.com/expert-systems-with-applications)) | 8.7           | 2165 |
-|      |      | Q1   | IEEE Transactions on Instrumentation and Measurement ([TIM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19)) | 5.3           | 1781                    |
+| B    | 1    | Q1   | Pattern Recognition ([PR](https://www.journals.elsevier.com/pattern-recognition)) | 8.0        | 625 |
+| B    |      | Q1   | IEEE Transactions on Multimedia ([TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)) | 7.3        | 308 |
+| B    |      | Q1   | IEEE Transactions on Circuits and Systems for Video Technology ([TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)) | 8.4        | 667                           |
+| B    |      | Q2   | Computer Vision and Image Understanding ([CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding)) | 4.5          | 109                     |
+| B    |      | Q1   | [Information Sciences](https://www.sciencedirect.com/journal/information-sciences) | 8.1          | 1394 |
+| C    | 1    | Q1   | Knowledge-Based Systems ([KBS](https://www.sciencedirect.com/journal/knowledge-based-systems)) | 8.8          | 1246 |
+| C    | 1    | Q1   | Expert Systems with Applications ([ESWA](https://www.journals.elsevier.com/expert-systems-with-applications)) | 8.5          | 2165 |
+|      |      | Q1   | IEEE Transactions on Instrumentation and Measurement ([TIM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19)) | 5.6          | 1781                    |
 |      |      | Q1   | [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing) | 8.3           |                                       |
-|      |      | Q1   | Engineering Applications of Artificial Intelligence          | 7.8           | 684 |
+|      |      | Q1   | Engineering Applications of Artificial Intelligence          | 8.0         | 684 |
 |      |      | Q1   | [Journal of Intelligent Manufacturing](https://www.springer.com/journal/10845/) | 7.1           |                                       |
 |      |      | Q1   | *International Journal of Intelligent Systems*               | 9.0           |                                       |
-| C    |      | Q2   | [Neurocomputing](https://journals.elsevier.com/neurocomputing) | 5.8           | 1465 |
-|      |      | Q2   | [Neural Computing and Applications](https://www.springer.com/journal/521/) | 5.1           | 1407                          |
-| C    |      | Q2   | [Applied Intelligence](https://www.springer.com/journal/10489/?gclid=CjwKCAjwzNOaBhAcEiwAD7Tb6AjLf5DK4hJ0x6nHR1JKioD610RG7aJGBy9W70_wYmSlrVUpauSVcRoClY0QAvD_BwE) | 5.0           | 1472                          |
+| C    |      | Q2   | [Neurocomputing](https://journals.elsevier.com/neurocomputing) | 6.0        | 1465 |
+|      |      | Q2   | [Neural Computing and Applications](https://www.springer.com/journal/521/) | 6.0        | 1407                          |
+| C    |      | Q2   | [Applied Intelligence](https://www.springer.com/journal/10489/?gclid=CjwKCAjwzNOaBhAcEiwAD7Tb6AjLf5DK4hJ0x6nHR1JKioD610RG7aJGBy9W70_wYmSlrVUpauSVcRoClY0QAvD_BwE) | 5.3          | 1472                          |
 | C    |      | Q2   | Pattern Recognition Letters ([PRL](https://www.journals.elsevier.com/pattern-recognition-letters)) | 4.8           |                              |
 | C    |      |      | [Image and Vision Computing](https://www.sciencedirect.com/journal/image-and-vision-computing) | 3.9           |                                       |
 | C    |      |      | [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97) | 3.2           |                                       |
