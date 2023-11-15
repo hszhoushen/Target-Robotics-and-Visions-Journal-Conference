@@ -29,7 +29,7 @@
 | A    |      | Q1   | International Journal of Computer Vision ([IJCV](https://www.springer.com/journal/11263)) | 19.5      |                 187                      |
 |      | 1    | Q1   | [Nature Machine Intelligence](https://www.nature.com/natmachintell/) | 23.8      |                 114                      |
 | B    | 1    | Q1   | IEEE Transactions on Neural Networks and learning systems ([TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)) | 10.4      |      1062                                 |
-| B    |      | Q1   | NEURAL NETWORKS                                              | 9.7           | 402 |
+| B    |      | Q1   | NEURAL NETWORKS ([NN](https://www.sciencedirect.com/journal/neural-networks)) | 9.7           | 402 |
 | B    | 1    | Q1   | Pattern Recognition ([PR](https://www.journals.elsevier.com/pattern-recognition)) | 8.0        | 625 |
 | B    |      | Q1   | IEEE Transactions on Multimedia ([TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)) | 7.3        | 308 |
 | B    |      | Q1   | IEEE Transactions on Circuits and Systems for Video Technology ([TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)) | 8.4        | 667                           |
@@ -39,7 +39,7 @@
 | C    | 1    | Q1   | Expert Systems with Applications ([ESWA](https://www.journals.elsevier.com/expert-systems-with-applications)) | 8.5          | 2165 |
 |      |      | Q1   | IEEE Transactions on Instrumentation and Measurement ([TIM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19)) | 5.6          | 1781                    |
 |      |      | Q1   | [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing) | 8.7          | 826 |
-|      |      | Q1   | Engineering Applications of Artificial Intelligence          | 8.0         | 684 |
+|      |      | Q1   | Engineering Applications of Artificial Intelligence ([EAAI](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)) | 8.0         | 684 |
 |      |      | Q1   | [Journal of Intelligent Manufacturing](https://www.springer.com/journal/10845/) | 8.3         | 189 |
 |      |      | Q1   | *International Journal of Intelligent Systems*               | 7.0        | 280 |
 | C    |      | Q2   | [Neurocomputing](https://journals.elsevier.com/neurocomputing) | 6.0        | 1465 |
