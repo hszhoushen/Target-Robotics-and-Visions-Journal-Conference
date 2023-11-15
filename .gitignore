@@ -16,3 +16,7 @@
 .idea
 #
 __pycache__
+#
+.xml
+#
+.iml
