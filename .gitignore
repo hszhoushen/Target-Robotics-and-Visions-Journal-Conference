@@ -8,8 +8,10 @@
 /httpRequests/
 # 
 *.py
+!scripts/*.py
 #
 *.txt
+!requirements.txt
 #
 *.pyc
 #
