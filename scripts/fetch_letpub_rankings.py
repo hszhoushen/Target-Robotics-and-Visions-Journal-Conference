@@ -29,26 +29,37 @@ JOURNALS = [
     "Science Robotics",
     "IEEE Transactions on Robotics",
     "International Journal of Robotics Research",
-    "Journal of Field Robotics",
+    "IEEE Robotics and Automation Letters",
     "IEEE/ASME Transactions on Mechatronics",
     "IEEE Transactions on Automation Science and Engineering",
+    "IEEE Robotics and Automation Magazine",
+    "IEEE Transactions on Intelligent Vehicles",
     "IEEE Transactions on Intelligent Transportation Systems",
     "IEEE Transactions on Cybernetics",
+    "Journal of Field Robotics",
     "Robotics and Computer-Integrated Manufacturing",
     "Soft Robotics",
-    "IEEE Robotics and Automation Letters",
+    "ACM Transactions on Human-Robot Interaction",
     "IEEE Transactions on Cognitive and Developmental Systems",
     "Robotics and Autonomous Systems",
     "Autonomous Robots",
     "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-    "IEEE Transactions on Image Processing",
     "International Journal of Computer Vision",
+    "IEEE Transactions on Image Processing",
     "Nature Machine Intelligence",
+    "Artificial Intelligence",
+    "Journal of Machine Learning Research",
+    "Machine Learning",
     "IEEE Transactions on Neural Networks and Learning Systems",
     "Neural Networks",
     "Pattern Recognition",
+    "IEEE Transactions on Knowledge and Data Engineering",
     "IEEE Transactions on Multimedia",
     "IEEE Transactions on Circuits and Systems for Video Technology",
+    "ACM Transactions on Graphics",
+    "IEEE Transactions on Visualization and Computer Graphics",
+    "IEEE Transactions on Medical Imaging",
+    "Medical Image Analysis",
     "Computer Vision and Image Understanding",
     "Information Sciences",
     "Knowledge-Based Systems",
@@ -77,7 +88,10 @@ JOURNALS = [
 ]
 
 DETAIL_URL_OVERRIDES = {
-    # LetPub autocomplete currently omits these two canonical titles.
+    # LetPub autocomplete currently omits these canonical titles.
+    "IEEE Robotics and Automation Magazine": (
+        f"{BASE_URL}index.php?journalid=3350&page=journalapp&view=detail"
+    ),
     "Neural Computing and Applications": (
         f"{BASE_URL}index.php?journalid=6123&page=journalapp&view=detail"
     ),
@@ -167,10 +181,9 @@ def parse_new_ranking(title: str, url: str, html: str) -> RankingRecord:
     impact_factor_match = re.search(r"影响因子([0-9.]+)分", page_title)
     impact_factor = impact_factor_match.group(1) if impact_factor_match else ""
 
-    annual_label = soup.find(string=lambda s: s and s.strip() == "年文章数")
-    annual_row = annual_label.find_parent("tr") if annual_label else None
-    annual_text = annual_row.get_text(" ", strip=True) if annual_row else ""
-    annual_match = re.search(r"年文章数\s*(\d+)", annual_text)
+    # LetPub's detail-page HTML is not always a valid table tree, so parse the
+    # normalized page text instead of relying on the label's nearest <tr>.
+    annual_match = re.search(r"年文章数\s*(\d+)", soup.get_text(" ", strip=True))
     annual_articles = annual_match.group(1) if annual_match else ""
 
     label = soup.find(string=lambda s: s and "2026年3月发布" in s)
