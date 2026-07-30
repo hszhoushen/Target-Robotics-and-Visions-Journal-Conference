@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch the current New Ranking journal block (March 2026) from LetPub.
+"""Fetch current ranking and journal metrics from LetPub.
 
 The script prints tab-separated records and does not modify the repository.
 It intentionally records the LetPub journal URL so every value can be audited.
@@ -32,6 +32,7 @@ JOURNALS = [
     "Journal of Field Robotics",
     "IEEE/ASME Transactions on Mechatronics",
     "IEEE Transactions on Automation Science and Engineering",
+    "IEEE Transactions on Intelligent Transportation Systems",
     "IEEE Transactions on Cybernetics",
     "Robotics and Computer-Integrated Manufacturing",
     "Soft Robotics",
@@ -71,6 +72,7 @@ JOURNALS = [
     "Multimedia Systems",
     "International Journal of Neural Systems",
     "Natural Computing",
+    "CAAI Transactions on Intelligence Technology",
     "Information Fusion",
 ]
 
@@ -91,6 +93,8 @@ class RankingRecord:
     new_ranking: str
     category: str
     top: str
+    impact_factor: str
+    annual_articles: str
     url: str
 
 
@@ -159,9 +163,21 @@ def visible_zone(cell: Tag) -> str:
 
 def parse_new_ranking(title: str, url: str, html: str) -> RankingRecord:
     soup = BeautifulSoup(html, "html.parser")
+    page_title = soup.title.get_text(" ", strip=True) if soup.title else ""
+    impact_factor_match = re.search(r"影响因子([0-9.]+)分", page_title)
+    impact_factor = impact_factor_match.group(1) if impact_factor_match else ""
+
+    annual_label = soup.find(string=lambda s: s and s.strip() == "年文章数")
+    annual_row = annual_label.find_parent("tr") if annual_label else None
+    annual_text = annual_row.get_text(" ", strip=True) if annual_row else ""
+    annual_match = re.search(r"年文章数\s*(\d+)", annual_text)
+    annual_articles = annual_match.group(1) if annual_match else ""
+
     label = soup.find(string=lambda s: s and "2026年3月发布" in s)
     if label is None:
-        return RankingRecord(title, "未收录", "", "", url)
+        return RankingRecord(
+            title, "未收录", "", "", impact_factor, annual_articles, url
+        )
 
     label_cell = label.find_parent("td")
     row = label_cell.find_parent("tr") if label_cell else None
@@ -175,7 +191,9 @@ def parse_new_ranking(title: str, url: str, html: str) -> RankingRecord:
     table = cells[1].find("table")
     data_row = table.find("tr").find_next_sibling("tr") if table else None
     if data_row is None:
-        return RankingRecord(title, "未收录", "", "", url)
+        return RankingRecord(
+            title, "未收录", "", "", impact_factor, annual_articles, url
+        )
 
     data_cells = data_row.find_all("td", recursive=False)
     if not data_cells:
@@ -199,6 +217,8 @@ def parse_new_ranking(title: str, url: str, html: str) -> RankingRecord:
         new_ranking=new_ranking,
         category=category,
         top=top,
+        impact_factor=impact_factor,
+        annual_articles=annual_articles,
         url=url,
     )
 
@@ -212,7 +232,10 @@ def main() -> int:
     print(
         "title\tletpub_url"
         if ids_only
-        else "title\tnew_ranking_2026\tcategory\ttop\tletpub_url"
+        else (
+            "title\tnew_ranking_2026\tcategory\ttop\t"
+            "impact_factor\tannual_articles\tletpub_url"
+        )
     )
     failures = 0
     for index, title in enumerate(journals, start=1):
@@ -235,7 +258,8 @@ def main() -> int:
                 raise RuntimeError(f"LetPub detail remained incomplete: {parse_error}")
             print(
                 f"{record.title}\t{record.new_ranking}\t{record.category}\t"
-                f"{record.top}\t{record.url}",
+                f"{record.top}\t{record.impact_factor}\t"
+                f"{record.annual_articles}\t{record.url}",
                 flush=True,
             )
         except Exception as exc:  # Keep a complete audit trail for batch runs.
